@@ -2,6 +2,10 @@
 
 (English | [中文](README_zh.md) | [日本語](README_ja.md))
 
+## Custom Modifications
+
+This fork includes specific modifications tailored for the **Waveshare ESP32-S3-RLCD-4.2** development board to ensure compatibility and optimized performance.
+
 ## Introduction
 
 👉 [Human: Give AI a camera vs AI: Instantly finds out the owner hasn't washed hair for three days【bilibili】](https://www.bilibili.com/video/BV1bpjgzKEhd/)
