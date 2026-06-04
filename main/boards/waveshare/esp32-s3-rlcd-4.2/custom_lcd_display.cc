@@ -96,7 +96,7 @@ height_(height)
     lv_init();
     lvgl_port_cfg_t port_cfg = ESP_LVGL_PORT_INIT_CONFIG();
     port_cfg.task_priority   = 2;
-    port_cfg.timer_period_ms = 50;
+    port_cfg.timer_period_ms = 100;
     lvgl_port_init(&port_cfg);
     lvgl_port_lock(0);
 
